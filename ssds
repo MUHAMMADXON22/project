@@ -1,0 +1,13 @@
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="container">
+      <h2>Контакты</h2>
+      <p>Свяжитесь с нами для получения дополнительной информации о наших продуктах и сервисах.</p>
+      <form action="#" method="post" class="contact-form">
+        <input type="text" name="name" placeholder="Ваше имя" required>
+        <input type="email" name="email" placeholder="Ваш email" required>
+        <textarea name="message" placeholder="Ваше сообщение" rows="5" required></textarea>
+        <button type="submit" class="btn">Отправить сообщение</button>
+      </form>
+    </div>
+  </section>
